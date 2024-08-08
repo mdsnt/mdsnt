@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💗
 
-<!--
-**mdsnt/mdsnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é mdsnt 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+xxxxxx@gmail.com
+
+
+
+![](![image](https://github.com/user-attachments/assets/2b993c24-7afe-4ebe-a229-855cb0f19eea0)
+
